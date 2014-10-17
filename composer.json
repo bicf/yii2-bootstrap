@@ -7,6 +7,7 @@
     "support": {
         "source": "https://github.com/devivan/yii2-bootstrap"
     },
+	"minimum-stability": "dev",
     "authors": [
         {
             "name": "Qiang Xue",

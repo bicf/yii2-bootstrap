@@ -5,9 +5,9 @@
     "keywords": ["yii2", "bootstrap"],
     "license": "BSD-3-Clause",
     "support": {
-        "source": "https://github.com/devivan/yii2-bootstrap"
+        "source": "https://github.com/devivan/yii2-bootstrap.git"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "RC",
     "require-dev": {
         "bower-asset/bootstrap": "3.2.* | 3.1.*"
     },

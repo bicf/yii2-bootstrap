@@ -7,15 +7,8 @@
     "support": {
         "source": "https://github.com/devivan/yii2-bootstrap"
     },
-	"minimum-stability": "dev",
-    "authors": [
-        {
-            "name": "Qiang Xue",
-            "email": "qiang.xue@gmail.com"
-        }
-    ],
-    "require": {
-        "yiisoft/yii2": "*",
+    "minimum-stability": "dev",
+    "require-dev": {
         "bower-asset/bootstrap": "3.2.* | 3.1.*"
     },
     "autoload": {
